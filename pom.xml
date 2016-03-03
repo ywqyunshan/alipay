@@ -33,9 +33,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:ihaolin/alipay.git</connection>
-        <developerConnection>scm:git:git@github.com:ihaolin/alipay.git</developerConnection>
-        <url>git@github.com:ihaolin/alipay.git</url>
+        <connection>scm:git:git@github.com:ywqyunshan/alipay.git</connection>
+        <developerConnection>scm:git:git@github.com:ywqyunshan/alipay.git</developerConnection>
+        <url>git@github.com:ywqyunshan/alipay.git</url>
     </scm>
 
     <build>
